@@ -6,7 +6,7 @@ INSTALLATION:
 
 This package can be installed using pip:
 
-sudo pip install git+https://gecgithub01.walmart.com/rnagpal/python-multicloudclient.git
+sudo pip install Multi-Tenant
 
 REQUIREMENTS:
 
